@@ -1,6 +1,0 @@
-flask
-scikit-learn
-nltk
-pickle-mixin
-streamlit
-pandas
