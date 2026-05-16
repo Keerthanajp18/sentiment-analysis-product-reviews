@@ -106,3 +106,9 @@ python test_api.py
 - HuggingFace Transformers (BERT)
 - Flask (REST API)
 - Streamlit (Web UI)
+
+- stramlit link
+-  https://sentiment-analysis-appuct-reviews-bxc7cbhtkz4mvrut84y2yt.streamlit.app/
+
+- streamlit screenshot
+- Screenshot 2026-05-16 145533.png
